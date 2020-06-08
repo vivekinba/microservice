@@ -1,0 +1,20 @@
+http://localhost:8765/currency-exchange-service/currency-exchange/from/EUR/to/INR
+http://localhost:8000/currency-exchange/from/EUR/to/INR
+
+http://localhost:8765/currency-exchange-service/currency-exchange/from/EUR/to/INR
+http://localhost:8001/currency-exchange/from/EUR/to/INR
+
+http://localhost:8765/currency-conversion-service/currency-converter-feign/from/EUR/to/INR/quantity/10000
+http://localhost:8100/currency-converter-feign/from/EUR/to/INR/quantity/10000
+
+http://localhost:8761/
+
+http://localhost:8080/limits
+http://localhost:8081/limits
+
+http://localhost:9411/zipkin/
+
+http://localhost:8080/actuator/refresh  --> send POST request to each instances running to reflect changes in git 
+http://localhost:8081/actuator/refresh  --> send POST request to each instances running to reflect changes in git
+
+http://localhost:8080/actuator/bus-refresh  --> send POST request to all instances running to reflect changes in git using cloud bus

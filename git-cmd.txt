@@ -1,0 +1,11 @@
+mkdir git-localconfig-repo
+
+cd git-localconfig-repo
+
+git init
+
+git add -A
+
+git status
+
+git commit -m "first commit"

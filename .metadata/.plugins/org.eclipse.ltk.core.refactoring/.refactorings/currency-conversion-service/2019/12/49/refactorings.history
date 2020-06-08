@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;url.txt&apos; to &apos;netflix-zuul-api-gateway-server/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;currency-conversion-service&apos;&#x0D;&#x0A;- Destination element: &apos;netflix-zuul-api-gateway-server/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;url.txt&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=netflix-zuul-api-gateway-server/src\/main\/resources" element1="src/main/resources/url.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1575443207721" units="0" version="1.0"/>
+</session>
